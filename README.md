@@ -52,7 +52,7 @@ An illustrated schematic is included to guide the connection between GPIO → re
 This project is part of the Tenmei.tech initiative — where innovation, automation, and elegance converge.  
 Whether you're a tech enthusiast, enterprise, or visionary collaborator, we invite you to explore more:
 
-👉 **Visit us at [Tenmei.tech](https://tenmei.tech)**  
+👉 **Visit and Contact us at [Tenmei.tech](https://tenmei.tech)**  🥰
 ✨ IoT, AI, and next-gen automation with a touch of excellence.
 
 ---
