@@ -33,3 +33,12 @@ def write_log_to_azure(log_message):
 
     except Exception as e:
         print(f"❌ An error occurred: {e}")
+
+"""
+🔧 Part of the Tenmei.tech IoT Initiative
+Visit us at: https://tenmei.tech
+
+© 2025 Tenmei.tech — All rights reserved.
+This script is provided under the MIT License.
+"""
+
