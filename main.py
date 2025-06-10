@@ -67,3 +67,13 @@ try:
 finally:
     GPIO.cleanup()
     print("GPIO cleaned up.")
+
+
+"""
+🔧 Part of the Tenmei.tech IoT Initiative
+Visit us at: https://tenmei.tech
+
+© 2025 Tenmei.tech — All rights reserved.
+This script is provided under the MIT License.
+"""
+
