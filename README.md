@@ -44,3 +44,20 @@ An illustrated schematic is included to guide the connection between GPIO → re
    ```bash
    git clone https://github.com/satoshinakamoto137/iot_rserver_control.git
    cd server-iot-controller
+
+---
+
+## 🚀 Let’s Build the Future, Together
+
+This project is part of the Tenmei.tech initiative — where innovation, automation, and elegance converge.  
+Whether you're a tech enthusiast, enterprise, or visionary collaborator, we invite you to explore more:
+
+👉 **Visit us at [Tenmei.tech](https://tenmei.tech)**  
+✨ IoT, AI, and next-gen automation with a touch of excellence.
+
+---
+
+© 2025 Tenmei.tech — All rights reserved.  
+This repository and its contents are protected under international copyright.  
+Use is permitted under the MIT License (see LICENSE file for details).
+
