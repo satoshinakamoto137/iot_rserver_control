@@ -29,6 +29,8 @@ This system enables physical server control remotely via cloud APIs and microcon
 
 An illustrated schematic is included to guide the connection between GPIO → resistor → transistor → relay, ensuring safe and reliable switching.
 
+![Relay Diagram](https://tenmei.tech/wp-content/uploads/2025/06/Screenshot-from-2025-06-10-16-14-10.png)
+
 ## ☁️ Cloud Architecture
 
 - **Cloud Platform**: Microsoft Azure
@@ -40,5 +42,5 @@ An illustrated schematic is included to guide the connection between GPIO → re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/server-iot-controller.git
+   git clone https://github.com/satoshinakamoto137/iot_rserver_control.git
    cd server-iot-controller
